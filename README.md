@@ -1,0 +1,2 @@
+# Automod-Bot
+Bot Host
